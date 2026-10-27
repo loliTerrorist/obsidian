@@ -12,11 +12,11 @@ We introduce the following algorithms to find roots: ^18ad89
 - [[Newton's method]]
 - [[Secant method]]
 
-In order to understand where errors come from, we need to look at how computers stores real numbers: It stores an [[rounding|approximation]] of the number in [[double precision number]]. Since there is approximation we can study [[propagation of errors|how much error is made]]. 
+In order to understand where errors come from, we need to look at how computers stores real numbers: It stores an [[rounding|approximation]] of the number in [[double precision number]]. Since there is approximation involved we can study [[propagation of errors|how much error is made]]. 
 
 We can provide instead a bound on the calculations we make, and then ensure that the answer we want lies in such a region. For this we introduce [[interval arithmetic]].
 
-Finally we use [[interval arithmetic]] to show how good the solutions provided by [[^18ad89| the algorithms introduced above]] is.
+Finally we use [[interval arithmetic]] to show how good the solutions provided by [[#^18ad89| the algorithms introduced above]] is.
 
 We introduce [[radii polynomial theorem]].
 

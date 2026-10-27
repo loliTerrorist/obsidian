@@ -1,4 +1,4 @@
-#math #geometry # 
+#math #geometry  
 
 This chapter will explain 
 - How the first fundamental form measures tangent vectors
