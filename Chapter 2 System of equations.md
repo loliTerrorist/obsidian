@@ -13,7 +13,7 @@ The eigenvalues of a matrix $A$ decide the behavior of the iteration $x \mapsto 
 chapter on differential equations, the stability of equilibria. We present three tools: the
 [[power method]], which finds the eigenvalue of largest modulus, [[inverse iteration]], which
 finds the eigenvalue closest to a given number, and [[Gershgorin’s discs]], which locate all
-the eigenvalues at once [7, 10]. Even for a real matrix the eigenvalues may be complex,
+the eigenvalues at once. Even for a real matrix the eigenvalues may be complex,
 so we take $\mathbb{K} = \mathbb{C}$ throughout: $A ∈ Mat_{n×n}(\mathbb{C})$, real matrices being included.
 
 Finally we move on to nonlinear systems and computer-assisted proofs in $\mathbb{R}^n$. We introduce [[Newton's method]] and [[radii polynomial theorem]] in $\mathbb{R}^n$.
